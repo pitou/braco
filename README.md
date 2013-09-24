@@ -16,6 +16,6 @@ You'll find in this repository all I needed to install and setup in my last big 
 
 In my project I use Symfony 2, so you may find some references to it (e.g. vendor/ creation using Composer).
 
-Some useful Puppet modules are present in the puppet/modules, maybe one day I'll push them as git submodules.
+Some useful Puppet modules are present into puppet/modules, maybe one day I'll push them as git submodules.
 
 Ciao
